@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AstroWeather</string>
+    <string name="dlugosc">długość</string>
+    <string name="szerokosc">szerokość</string>
+    <string name="odswiezanie">odświeżanie</string>
+    <string name="oblicz">oblicz</string>
+</resources>
